@@ -1,0 +1,22 @@
+.Grid {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px 0px;
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+}
+
+#GridElement {
+     margin: auto;
+}
+
+/* TODO: Refactor this later 
+    color: Color of text througohut whole application (White by default)
+    text-align: Align the text center for the whole application (Center by default)
+*/
+body {
+    color: #f5f5f5;
+    text-align: center;
+}

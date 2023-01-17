@@ -1,0 +1,11 @@
+.currentTime {
+    font-size: 260px;
+    margin-bottom: -2%;
+    font-family: "InterBold"
+}
+
+.currentDate {
+    font-size: 40px;
+    font-family: "InterExtraLight";
+    opacity: 80%;
+}
