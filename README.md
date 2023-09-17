@@ -21,14 +21,10 @@ Follow these steps to set up 'Vision' on your Raspberry Pi or other suitable dev
 
 1. Clone the Repository: Clone this GitHub repository to your device.
 ```
-bash
-Copy code
 git clone https://github.com/yourusername/vision-app.git
 ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies.
 ```
-bash
-Copy code
 cd vision-app
 npm install
 ```
@@ -36,8 +32,6 @@ npm install
 
 4. Run the App: Start the 'Vision' app on your device.
 ```
-bash
-Copy code
 npm start
 ```
 5. Access the App: Open a web browser and navigate to http://localhost:3000 to see 'Vision' in action.
