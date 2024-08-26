@@ -1,10 +1,10 @@
 # Vision
 
+<img align="right" src="vision.png" width="50%" height="50%">
+
 ## Overview
 
 <p>'Vision' is a web application designed to turn your Raspberry Pi or any other suitable device into an 'always-on' display that provides essential information at a glance. The app features a minimalist custom-built user interface created with React and showcases the current time, weather, and the currently playing song on Spotify.</p>
-
-<img align="right" src="vision.png" width="50%" height="50%">
 
 ## Motivation
 <p>Many of us have spare screens or devices that are underutilized. 'Vision' was born out of the desire to make better use of these screens by providing real-time, at-a-glance information. Whether you have a spare Raspberry Pi or an old monitor, you can repurpose it as an informative and aesthetically pleasing display.</p>
